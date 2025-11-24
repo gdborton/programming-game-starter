@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://programming-game.com/og" width="70%">
   <a href="https://programming-game.com">
-    <h1 align="center">Programming Game Starter</h1>
+    <img src="https://programming-game.com/og" width="70%">
   </a>
 </p>
 
