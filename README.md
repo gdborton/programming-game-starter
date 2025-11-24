@@ -2,9 +2,9 @@
   <a href="https://programming-game.com">
     <img src="https://programming-game.com/og" width="70%">
   </a>
+  [Programming Game](https://programming-game.com/) is an mmorpg that you play entirely through code.
 </p>
 
-[Programming Game](https://programming-game.com/) is an mmorpg that you play entirely through code.
 
 ## Setup
 
