@@ -7,6 +7,10 @@
   <a href="https://programming-game.com">Programming Game</a> is an mmorpg that you play entirely through code.
 </p>
 
+## Quick Demo
+
+If you haven't signed up for an account, there's an in-browser, no sign up demo available [here](https://programming-game.com/demo).
+
 ## Setup
 
 ```bash
