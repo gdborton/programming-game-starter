@@ -7,7 +7,6 @@
   <a href="https://programming-game.com">Programming Game</a> is an mmorpg that you play entirely through code.
 </p>
 
-
 ## Setup
 
 ```bash
@@ -26,6 +25,15 @@ npm start
 Watch your character react as you change code at `https://programming-game.com/watch/<character>`, there are quicklinks for each of your characters in your [dashboard](https://programming-game.com/dashboard).
 
 There's a basic [getting started guide](https://programming-game.com/docs/getting-started) that walks you through the most basic mechanics of the game. It's **highly** recommended that you work through this.
+
+## Staying Connected
+
+The game is designed to be played 24/7. It can be advantageous to deploy the game to a SAAS that allows you to run 24/7.
+
+Some low cost providers:
+
+- [fly.io](https://fly.io) - You can run a client on fly.io for less than $5/month.
+- [heroku](https://heroku.com) - you can deploy a single dyno that stays connected for $5/month.
 
 ## Getting Help
 
