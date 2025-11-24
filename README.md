@@ -4,7 +4,7 @@
   </a>
 </p>
 
-[Programming Game](https://programming-game.com/) is an mmorpg that you interact with entirely through code.
+[Programming Game](https://programming-game.com/) is an mmorpg that you play entirely through code.
 
 ## Setup
 
