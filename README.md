@@ -24,3 +24,9 @@ npm start
 ## Playing the Game
 
 Watch your character react as you change code at `https://programming-game.com/watch/<character>`, there are quicklinks for each of your characters in your [dashboard](https://programming-game.com/dashboard).
+
+There's a basic [getting started guide](https://programming-game.com/docs/getting-started) that walks you through the most basic mechanics of the game. It's **highly** recommended that you work through this.
+
+## Getting Help
+
+If you need any help with code or mechanics, or want to coordinate with other players, come [join the discord server](https://discord.gg/69M8p25ffP)
