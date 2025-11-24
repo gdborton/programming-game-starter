@@ -2,6 +2,8 @@
   <a href="https://programming-game.com">
     <img src="https://programming-game.com/og" width="70%">
   </a>
+</p>
+<p align="center">
   <a href="https://programming-game.com">Programming Game</a> is an mmorpg that you play entirely through code.
 </p>
 
