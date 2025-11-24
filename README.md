@@ -19,6 +19,7 @@ touch .env
 # https://programming-game.com/dashboard
 npm install
 npm start
+```
 
 ## Playing the Game
 
