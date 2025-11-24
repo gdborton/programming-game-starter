@@ -23,4 +23,4 @@ npm start
 
 ## Playing the Game
 
-Watch your character react as you change code at `https://programming-game.com/watch/<character>`
+Watch your character react as you change code at `https://programming-game.com/watch/<character>`, there are quicklinks for each of your characters in your [dashboard](https://programming-game.com/dashboard).
