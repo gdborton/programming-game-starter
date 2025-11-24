@@ -19,4 +19,5 @@ touch .env
 # https://programming-game.com/dashboard
 npm install
 npm start
-```
+# Watch your character react as you change code at
+# https://programming-game.com/watch/<character>
