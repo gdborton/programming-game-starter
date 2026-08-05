@@ -1,6 +1,6 @@
 import { connect } from "programming-game";
 import { config } from "dotenv";
-import { UnitTypes } from "programming-game/types";
+import { UNIT_TYPE } from "programming-game/types";
 
 config({
   path: ".env",
@@ -18,8 +18,8 @@ const assertEnv = (key: string): string => {
 
 connect({
   credentials: {
-    id: assertEnv("USER_ID"),
-    key: assertEnv("API_KEY"),
+    userId: assertEnv("USER_ID"),
+    apiKey: assertEnv("API_KEY"),
   },
   onTick(heartbeat) {
     const { player } = heartbeat;
@@ -32,7 +32,7 @@ connect({
     for (const unitId in heartbeat.units) {
       const unit = heartbeat.units[unitId];
       // attack the first monster we see
-      if (unit.type === UnitTypes.monster) {
+      if (unit.type === UNIT_TYPE.monster) {
         return player.attack(unit);
       }
     }
